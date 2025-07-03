@@ -1,0 +1,17 @@
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\bin\Debug\net9.0\EducationalCoursesAPI.Application.deps.json
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\bin\Debug\net9.0\EducationalCoursesAPI.Application.dll
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\bin\Debug\net9.0\EducationalCoursesAPI.Application.pdb
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\bin\Debug\net9.0\EducationalCoursesAPI.Domain.dll
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\bin\Debug\net9.0\EducationalCoursesAPI.Infrastructure.dll
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\bin\Debug\net9.0\EducationalCoursesAPI.Domain.pdb
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\bin\Debug\net9.0\EducationalCoursesAPI.Infrastructure.pdb
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.csproj.AssemblyReference.cache
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.AssemblyInfoInputs.cache
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.AssemblyInfo.cs
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\Educatio.B3590834.Up2Date
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.dll
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\refint\EducationalCoursesAPI.Application.dll
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.pdb
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\ref\EducationalCoursesAPI.Application.dll

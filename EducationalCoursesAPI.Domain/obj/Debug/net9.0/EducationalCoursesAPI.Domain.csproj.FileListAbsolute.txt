@@ -1,0 +1,11 @@
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Domain\bin\Debug\net9.0\EducationalCoursesAPI.Domain.deps.json
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Domain\bin\Debug\net9.0\EducationalCoursesAPI.Domain.dll
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Domain\bin\Debug\net9.0\EducationalCoursesAPI.Domain.pdb
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\EducationalCoursesAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\EducationalCoursesAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\EducationalCoursesAPI.Domain.AssemblyInfo.cs
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\EducationalCoursesAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\EducationalCoursesAPI.Domain.dll
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\refint\EducationalCoursesAPI.Domain.dll
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\EducationalCoursesAPI.Domain.pdb
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\ref\EducationalCoursesAPI.Domain.dll

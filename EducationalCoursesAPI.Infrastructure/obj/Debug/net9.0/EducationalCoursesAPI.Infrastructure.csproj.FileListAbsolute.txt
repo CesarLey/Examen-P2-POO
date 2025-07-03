@@ -1,0 +1,17 @@
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\bin\Debug\net9.0\EducationalCoursesAPI.Infrastructure.deps.json
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\bin\Debug\net9.0\EducationalCoursesAPI.Infrastructure.runtimeconfig.json
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\bin\Debug\net9.0\EducationalCoursesAPI.Infrastructure.dll
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\bin\Debug\net9.0\EducationalCoursesAPI.Infrastructure.pdb
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\bin\Debug\net9.0\EducationalCoursesAPI.Domain.dll
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\bin\Debug\net9.0\EducationalCoursesAPI.Domain.pdb
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\Educatio.8A32DD88.Up2Date
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.dll
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\refint\EducationalCoursesAPI.Infrastructure.dll
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.pdb
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\ref\EducationalCoursesAPI.Infrastructure.dll
