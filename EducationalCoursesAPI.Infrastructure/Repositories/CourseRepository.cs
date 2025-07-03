@@ -42,14 +42,17 @@ namespace EducationalCoursesAPI.Infrastructure.Repositories
             var courses = new List<Course>();
             while (await reader.ReadAsync())
             {
-                courses.Add(new Course
+                var course = new Course
                 {
                     Id = reader.GetInt32(0),
                     Title = reader.GetString(1),
                     Description = reader.IsDBNull(2) ? "" : reader.GetString(2),
                     IsPublished = reader.GetBoolean(3)
-                });
+                };
+                Console.WriteLine($"Curso: {course.Id}, {course.Title}, IsPublished: {course.IsPublished}");
+                courses.Add(course);
             }
+            Console.WriteLine($"Total cursos leídos: {courses.Count}");
             return courses;
         }
 
