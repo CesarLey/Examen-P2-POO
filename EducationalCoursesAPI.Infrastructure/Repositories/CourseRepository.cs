@@ -37,7 +37,8 @@ namespace EducationalCoursesAPI.Infrastructure.Repositories
         {
             using var conn = new NpgsqlConnection(_connectionString);
             await conn.OpenAsync();
-            using var cmd = new NpgsqlCommand("SELECT id, title, description, is_published FROM courses", conn);
+            string query = "SELECT id, title, description, is_published FROM courses";
+            using var cmd = new NpgsqlCommand(query, conn);
             using var reader = await cmd.ExecuteReaderAsync();
             var courses = new List<Course>();
             while (await reader.ReadAsync())
