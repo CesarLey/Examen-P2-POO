@@ -29,9 +29,18 @@ namespace EducationalCoursesAPI.Application.Services
         public async Task<bool> UpdateAsync(Course course)
         {
             var existing = await _courseRepository.GetByIdAsync(course.Id);
-            if (existing == null || existing.IsPublished) return false;
+            if (existing == null) return false;
+
+            // Permitir solo el cambio de isPublished si ya está publicado
+            if (existing.IsPublished && !course.IsPublished)
+                return false; // No permitir despublicar
+
+            if (existing.IsPublished && (existing.Title != course.Title || existing.Description != course.Description))
+                return false; // No permitir cambiar título o descripción si ya está publicado
+
             existing.Title = course.Title;
             existing.Description = course.Description;
+            existing.IsPublished = course.IsPublished;
             await _courseRepository.UpdateAsync(existing);
             return true;
         }

@@ -32,8 +32,26 @@ namespace EducationalCoursesAPI.Infrastructure.Repositories
             return modules;
         }
 
+        public async Task<Module?> GetByIdAsync(int id)
+        {
+            using var conn = new NpgsqlConnection(_connectionString);
+            await conn.OpenAsync();
+            using var cmd = new NpgsqlCommand("SELECT id, title, course_id FROM modules WHERE id = @id", conn);
+            cmd.Parameters.AddWithValue("@id", id);
+            using var reader = await cmd.ExecuteReaderAsync();
+            if (await reader.ReadAsync())
+            {
+                return new Module
+                {
+                    Id = reader.GetInt32(0),
+                    Title = reader.GetString(1),
+                    CourseId = reader.GetInt32(2)
+                };
+            }
+            return null;
+        }
+
         // Métodos no implementados para la demo
-        public Task<Module?> GetByIdAsync(int id) => throw new NotImplementedException();
         public Task AddAsync(Module module) => throw new NotImplementedException();
         public Task UpdateAsync(Module module) => throw new NotImplementedException();
         public Task DeleteAsync(int id) => throw new NotImplementedException();

@@ -81,6 +81,15 @@ namespace EducationalCoursesAPI.Infrastructure.Repositories
             await cmd.ExecuteNonQueryAsync();
         }
 
-        public Task<bool> ExistsByEmailAsync(string email) => throw new NotImplementedException();
+        public async Task<bool> ExistsByEmailAsync(string email)
+        {
+            using var conn = new NpgsqlConnection(_connectionString);
+            await conn.OpenAsync();
+            using var cmd = new NpgsqlCommand("SELECT COUNT(*) FROM instructors WHERE email = @email", conn);
+            cmd.Parameters.AddWithValue("@email", email);
+            var result = await cmd.ExecuteScalarAsync();
+            var count = Convert.ToInt64(result);
+            return count > 0;
+        }
     }
 } 

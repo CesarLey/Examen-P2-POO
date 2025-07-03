@@ -5,6 +5,18 @@ using EducationalCoursesAPI.Domain.Entities;
 
 namespace EducationalCoursesAPI.API.Controllers
 {
+    // Ejemplo de JSON correcto para crear un curso:
+    // {
+    //   "title": "curso data",
+    //   "description": "rapido",
+    //   "isPublished": false,
+    //   "modules": [
+    //     { "title": "Módulo 1" }
+    //   ],
+    //   "instructors": [
+    //     { "name": "Juan Pérez", "email": "juan@example.com" }
+    //   ]
+    // }
     [ApiController]
     [Route("api/[controller]")]
     [Authorize]
