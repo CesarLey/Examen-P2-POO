@@ -131,3 +131,4 @@ C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.API\obj\Debug\ne
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.API\obj\Debug\net9.0\EducationalCoursesAPI.API.pdb
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.API\obj\Debug\net9.0\EducationalCoursesAPI.API.genruntimeconfig.cache
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.API\obj\Debug\net9.0\ref\EducationalCoursesAPI.API.dll
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.API\obj\Debug\net9.0\EducationalCoursesAPI.API.sourcelink.json

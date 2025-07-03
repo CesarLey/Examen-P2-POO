@@ -33,3 +33,4 @@ C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\o
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.pdb
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.genruntimeconfig.cache
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\ref\EducationalCoursesAPI.Infrastructure.dll
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.sourcelink.json

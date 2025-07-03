@@ -21,3 +21,4 @@ C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Domain\obj\Debug
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\refint\EducationalCoursesAPI.Domain.dll
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\EducationalCoursesAPI.Domain.pdb
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\ref\EducationalCoursesAPI.Domain.dll
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\EducationalCoursesAPI.Domain.sourcelink.json

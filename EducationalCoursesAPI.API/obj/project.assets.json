@@ -9006,23 +9006,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC001\\.nuget\\packages\\": {},
+    "C:\\Users\\cesar\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC001\\Cursosonline\\Examen-P2-POO\\EducationalCoursesAPI.API\\EducationalCoursesAPI.API.csproj",
+      "projectUniqueName": "C:\\Users\\cesar\\ProyectosGit\\Examen 2P POO\\EducationalCoursesAPI.API\\EducationalCoursesAPI.API.csproj",
       "projectName": "EducationalCoursesAPI.API",
-      "projectPath": "C:\\Users\\PC001\\Cursosonline\\Examen-P2-POO\\EducationalCoursesAPI.API\\EducationalCoursesAPI.API.csproj",
-      "packagesPath": "C:\\Users\\PC001\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC001\\Cursosonline\\Examen-P2-POO\\EducationalCoursesAPI.API\\obj\\",
+      "projectPath": "C:\\Users\\cesar\\ProyectosGit\\Examen 2P POO\\EducationalCoursesAPI.API\\EducationalCoursesAPI.API.csproj",
+      "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cesar\\ProyectosGit\\Examen 2P POO\\EducationalCoursesAPI.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\PC001\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9037,11 +9037,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\PC001\\Cursosonline\\Examen-P2-POO\\EducationalCoursesAPI.Application\\EducationalCoursesAPI.Application.csproj": {
-              "projectPath": "C:\\Users\\PC001\\Cursosonline\\Examen-P2-POO\\EducationalCoursesAPI.Application\\EducationalCoursesAPI.Application.csproj"
+            "C:\\Users\\cesar\\ProyectosGit\\Examen 2P POO\\EducationalCoursesAPI.Application\\EducationalCoursesAPI.Application.csproj": {
+              "projectPath": "C:\\Users\\cesar\\ProyectosGit\\Examen 2P POO\\EducationalCoursesAPI.Application\\EducationalCoursesAPI.Application.csproj"
             },
-            "C:\\Users\\PC001\\Cursosonline\\Examen-P2-POO\\EducationalCoursesAPI.Infrastructure\\EducationalCoursesAPI.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\PC001\\Cursosonline\\Examen-P2-POO\\EducationalCoursesAPI.Infrastructure\\EducationalCoursesAPI.Infrastructure.csproj"
+            "C:\\Users\\cesar\\ProyectosGit\\Examen 2P POO\\EducationalCoursesAPI.Infrastructure\\EducationalCoursesAPI.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\cesar\\ProyectosGit\\Examen 2P POO\\EducationalCoursesAPI.Infrastructure\\EducationalCoursesAPI.Infrastructure.csproj"
             }
           }
         }

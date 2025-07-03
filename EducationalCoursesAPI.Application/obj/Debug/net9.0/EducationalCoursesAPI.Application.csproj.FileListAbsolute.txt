@@ -33,3 +33,4 @@ C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Application\obj\
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\refint\EducationalCoursesAPI.Application.dll
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.pdb
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\ref\EducationalCoursesAPI.Application.dll
+C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.sourcelink.json
