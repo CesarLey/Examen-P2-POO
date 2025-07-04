@@ -93,9 +93,10 @@ app.UseCors("AllowAll");
 // Middleware para restringir acceso por IP
 var allowedIps = new[]
 {
-    "187.155.101.200", // IP del usuario
+    "187.155.101.200", // IP del usuario (escuela)
     "35.230.45.39",    // IP de Render
     "34.82.41.62",     // Otra IP de Render detectada
+    "200.94.113.148",  // IP de casa del usuario
     "127.0.0.1",       // localhost IPv4
     "::1"              // localhost IPv6
     // Puedes agregar aquí la IP de Render cuando la identifiques en los logs
