@@ -42,6 +42,16 @@ namespace EducationalCoursesAPI.Infrastructure.Data
             modelBuilder.Entity<Lesson>().Property(l => l.Id).HasColumnName("id");
             modelBuilder.Entity<Instructor>().Property(i => i.Id).HasColumnName("id");
             modelBuilder.Entity<Lesson>().Property(l => l.Content).HasColumnName("content");
+            modelBuilder.Entity<Instructor>().Property(i => i.Name).HasColumnName("name");
+            modelBuilder.Entity<Instructor>().Property(i => i.Email).HasColumnName("email");
+            modelBuilder.Entity<Course>().Property(c => c.Title).HasColumnName("title");
+            modelBuilder.Entity<Course>().Property(c => c.Description).HasColumnName("description");
+            modelBuilder.Entity<Course>().Property(c => c.IsPublished).HasColumnName("is_published");
+            modelBuilder.Entity<Module>().Property(m => m.Title).HasColumnName("title");
+            modelBuilder.Entity<Module>().Property(m => m.CourseId).HasColumnName("course_id");
+            modelBuilder.Entity<Lesson>().Property(l => l.Title).HasColumnName("title");
+            modelBuilder.Entity<Lesson>().Property(l => l.Content).HasColumnName("content");
+            modelBuilder.Entity<Lesson>().Property(l => l.ModuleId).HasColumnName("module_id");
         }
     }
 } 

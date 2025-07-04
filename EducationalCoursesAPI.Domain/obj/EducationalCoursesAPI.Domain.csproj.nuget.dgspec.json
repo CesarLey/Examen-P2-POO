@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cesar\\ProyectosGit\\Examen 2P POO\\EducationalCoursesAPI.Domain\\EducationalCoursesAPI.Domain.csproj": {}
+    "C:\\Examen-P2-POO\\EducationalCoursesAPI.Domain\\EducationalCoursesAPI.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cesar\\ProyectosGit\\Examen 2P POO\\EducationalCoursesAPI.Domain\\EducationalCoursesAPI.Domain.csproj": {
+    "C:\\Examen-P2-POO\\EducationalCoursesAPI.Domain\\EducationalCoursesAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cesar\\ProyectosGit\\Examen 2P POO\\EducationalCoursesAPI.Domain\\EducationalCoursesAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Examen-P2-POO\\EducationalCoursesAPI.Domain\\EducationalCoursesAPI.Domain.csproj",
         "projectName": "EducationalCoursesAPI.Domain",
-        "projectPath": "C:\\Users\\cesar\\ProyectosGit\\Examen 2P POO\\EducationalCoursesAPI.Domain\\EducationalCoursesAPI.Domain.csproj",
-        "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cesar\\ProyectosGit\\Examen 2P POO\\EducationalCoursesAPI.Domain\\obj\\",
+        "projectPath": "C:\\Examen-P2-POO\\EducationalCoursesAPI.Domain\\EducationalCoursesAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\alexc\\.nuget\\packages\\",
+        "outputPath": "C:\\Examen-P2-POO\\EducationalCoursesAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

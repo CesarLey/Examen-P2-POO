@@ -34,3 +34,21 @@ C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\o
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.genruntimeconfig.cache
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\ref\EducationalCoursesAPI.Infrastructure.dll
 C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.sourcelink.json
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\bin\Debug\net9.0\EducationalCoursesAPI.Infrastructure.deps.json
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\bin\Debug\net9.0\EducationalCoursesAPI.Infrastructure.runtimeconfig.json
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\bin\Debug\net9.0\EducationalCoursesAPI.Infrastructure.dll
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\bin\Debug\net9.0\EducationalCoursesAPI.Infrastructure.pdb
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\bin\Debug\net9.0\EducationalCoursesAPI.Domain.dll
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\bin\Debug\net9.0\EducationalCoursesAPI.Domain.pdb
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.AssemblyInfo.cs
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.sourcelink.json
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\Educatio.8A32DD88.Up2Date
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.dll
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\refint\EducationalCoursesAPI.Infrastructure.dll
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.pdb
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\EducationalCoursesAPI.Infrastructure.genruntimeconfig.cache
+C:\Examen-P2-POO\EducationalCoursesAPI.Infrastructure\obj\Debug\net9.0\ref\EducationalCoursesAPI.Infrastructure.dll

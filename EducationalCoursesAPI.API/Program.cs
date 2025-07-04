@@ -87,6 +87,8 @@ builder.Services.AddControllers();
 
 var app = builder.Build();
 
+// Eliminada la llamada a DataSeeder.SeedAsync, ya no se hace seeding de datos falsos.
+
 // Middleware de CORS
 app.UseCors("AllowAll");
 

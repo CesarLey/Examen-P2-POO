@@ -22,3 +22,15 @@ C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Domain\obj\Debug
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\EducationalCoursesAPI.Domain.pdb
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\ref\EducationalCoursesAPI.Domain.dll
 C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\EducationalCoursesAPI.Domain.sourcelink.json
+C:\Examen-P2-POO\EducationalCoursesAPI.Domain\bin\Debug\net9.0\EducationalCoursesAPI.Domain.deps.json
+C:\Examen-P2-POO\EducationalCoursesAPI.Domain\bin\Debug\net9.0\EducationalCoursesAPI.Domain.dll
+C:\Examen-P2-POO\EducationalCoursesAPI.Domain\bin\Debug\net9.0\EducationalCoursesAPI.Domain.pdb
+C:\Examen-P2-POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\EducationalCoursesAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examen-P2-POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\EducationalCoursesAPI.Domain.AssemblyInfoInputs.cache
+C:\Examen-P2-POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\EducationalCoursesAPI.Domain.AssemblyInfo.cs
+C:\Examen-P2-POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\EducationalCoursesAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Examen-P2-POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\EducationalCoursesAPI.Domain.sourcelink.json
+C:\Examen-P2-POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\EducationalCoursesAPI.Domain.dll
+C:\Examen-P2-POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\refint\EducationalCoursesAPI.Domain.dll
+C:\Examen-P2-POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\EducationalCoursesAPI.Domain.pdb
+C:\Examen-P2-POO\EducationalCoursesAPI.Domain\obj\Debug\net9.0\ref\EducationalCoursesAPI.Domain.dll

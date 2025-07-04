@@ -34,3 +34,21 @@ C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Application\obj\
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.pdb
 C:\Users\PC001\Cursosonline\Examen-P2-POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\ref\EducationalCoursesAPI.Application.dll
 C:\Users\cesar\ProyectosGit\Examen 2P POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.sourcelink.json
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\bin\Debug\net9.0\EducationalCoursesAPI.Application.deps.json
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\bin\Debug\net9.0\EducationalCoursesAPI.Application.dll
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\bin\Debug\net9.0\EducationalCoursesAPI.Application.pdb
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\bin\Debug\net9.0\EducationalCoursesAPI.Domain.dll
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\bin\Debug\net9.0\EducationalCoursesAPI.Infrastructure.dll
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\bin\Debug\net9.0\EducationalCoursesAPI.Domain.pdb
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\bin\Debug\net9.0\EducationalCoursesAPI.Infrastructure.pdb
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.csproj.AssemblyReference.cache
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.AssemblyInfoInputs.cache
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.AssemblyInfo.cs
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.csproj.CoreCompileInputs.cache
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.sourcelink.json
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\Educatio.B3590834.Up2Date
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.dll
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\refint\EducationalCoursesAPI.Application.dll
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\EducationalCoursesAPI.Application.pdb
+C:\Examen-P2-POO\EducationalCoursesAPI.Application\obj\Debug\net9.0\ref\EducationalCoursesAPI.Application.dll
