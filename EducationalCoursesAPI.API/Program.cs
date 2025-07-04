@@ -90,6 +90,43 @@ var app = builder.Build();
 // Middleware de CORS
 app.UseCors("AllowAll");
 
+// Middleware para restringir acceso por IP
+var allowedIps = new[]
+{
+    "187.155.101.200", // IP del usuario
+    "127.0.0.1",       // localhost IPv4
+    "::1"              // localhost IPv6
+    // Puedes agregar aquí la IP de Render cuando la identifiques en los logs
+};
+
+app.Use(async (context, next) =>
+{
+    string? remoteIp = context.Connection.RemoteIpAddress?.ToString();
+
+    // Intenta obtener la IP real desde el header si existe (Render suele usar X-Forwarded-For)
+    if (context.Request.Headers.ContainsKey("X-Forwarded-For"))
+    {
+        var forwardedFor = context.Request.Headers["X-Forwarded-For"].FirstOrDefault();
+        if (!string.IsNullOrEmpty(forwardedFor))
+        {
+            // Puede haber varias IPs separadas por coma, toma la primera
+            remoteIp = forwardedFor.Split(',')[0].Trim();
+        }
+    }
+
+    // Permitir acceso si la IP está en la lista
+    if (!allowedIps.Contains(remoteIp))
+    {
+        // Loguea la IP para identificar la de Render en los logs
+        Console.WriteLine($"Intento de acceso denegado desde IP: {remoteIp}");
+        context.Response.StatusCode = StatusCodes.Status403Forbidden;
+        await context.Response.WriteAsync("Acceso denegado: IP no permitida.");
+        return;
+    }
+
+    await next();
+});
+
 // Swagger
 app.UseSwagger();
 app.UseSwaggerUI();
