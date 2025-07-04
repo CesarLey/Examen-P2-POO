@@ -94,6 +94,7 @@ app.UseCors("AllowAll");
 var allowedIps = new[]
 {
     "187.155.101.200", // IP del usuario
+    "35.230.45.39",    // IP de Render
     "127.0.0.1",       // localhost IPv4
     "::1"              // localhost IPv6
     // Puedes agregar aquí la IP de Render cuando la identifiques en los logs

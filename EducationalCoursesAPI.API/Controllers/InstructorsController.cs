@@ -34,8 +34,14 @@ namespace EducationalCoursesAPI.API.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] Instructor instructor)
         {
+            if (string.IsNullOrWhiteSpace(instructor.Name) || string.IsNullOrWhiteSpace(instructor.Email))
+                return BadRequest("Datos inválidos.");
+            if (await _instructorService.GetAllAsync() is var all && all.Any(i => i.Email == instructor.Email))
+                return BadRequest("Ya existe un instructor con ese email.");
+            if (all.Any(i => i.Name == instructor.Name))
+                return BadRequest("Ya existe un instructor con ese nombre.");
             var ok = await _instructorService.AddAsync(instructor);
-            if (!ok) return BadRequest("Datos inválidos o instructor duplicado.");
+            if (!ok) return BadRequest("No se pudo crear el instructor.");
             return Ok(instructor);
         }
 
@@ -43,6 +49,12 @@ namespace EducationalCoursesAPI.API.Controllers
         public async Task<IActionResult> Update(int id, [FromBody] Instructor instructor)
         {
             instructor.Id = id;
+            if (string.IsNullOrWhiteSpace(instructor.Name) || string.IsNullOrWhiteSpace(instructor.Email))
+                return BadRequest("Datos inválidos.");
+            if (await _instructorService.GetAllAsync() is var all && all.Any(i => i.Id != id && i.Email == instructor.Email))
+                return BadRequest("Ya existe un instructor con ese email.");
+            if (all.Any(i => i.Id != id && i.Name == instructor.Name))
+                return BadRequest("Ya existe un instructor con ese nombre.");
             var ok = await _instructorService.UpdateAsync(instructor);
             if (!ok) return BadRequest("No se puede modificar el instructor o no existe.");
             return Ok(instructor);

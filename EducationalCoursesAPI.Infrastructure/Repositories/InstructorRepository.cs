@@ -91,5 +91,15 @@ namespace EducationalCoursesAPI.Infrastructure.Repositories
             var count = Convert.ToInt64(result);
             return count > 0;
         }
+
+        public async Task<bool> ExistsByNameAsync(string name)
+        {
+            using var conn = new NpgsqlConnection(_connectionString);
+            await conn.OpenAsync();
+            using var cmd = new NpgsqlCommand("SELECT COUNT(1) FROM instructors WHERE name = @name", conn);
+            cmd.Parameters.AddWithValue("@name", name);
+            var count = (long)await cmd.ExecuteScalarAsync();
+            return count > 0;
+        }
     }
 } 

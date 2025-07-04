@@ -10,5 +10,6 @@ namespace EducationalCoursesAPI.Infrastructure.Repositories
         Task UpdateAsync(Instructor instructor);
         Task DeleteAsync(int id);
         Task<bool> ExistsByEmailAsync(string email);
+        Task<bool> ExistsByNameAsync(string name);
     }
 } 

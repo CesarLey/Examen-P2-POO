@@ -21,6 +21,7 @@ namespace EducationalCoursesAPI.Application.Services
         {
             if (string.IsNullOrWhiteSpace(instructor.Name) || string.IsNullOrWhiteSpace(instructor.Email)) return false;
             if (await _instructorRepository.ExistsByEmailAsync(instructor.Email)) return false;
+            if (await _instructorRepository.ExistsByNameAsync(instructor.Name)) return false;
             await _instructorRepository.AddAsync(instructor);
             return true;
         }
@@ -29,6 +30,12 @@ namespace EducationalCoursesAPI.Application.Services
         {
             var existing = await _instructorRepository.GetByIdAsync(instructor.Id);
             if (existing == null) return false;
+            if (!string.Equals(existing.Name, instructor.Name, StringComparison.OrdinalIgnoreCase)
+                && await _instructorRepository.ExistsByNameAsync(instructor.Name))
+                return false;
+            if (!string.Equals(existing.Email, instructor.Email, StringComparison.OrdinalIgnoreCase)
+                && await _instructorRepository.ExistsByEmailAsync(instructor.Email))
+                return false;
             existing.Name = instructor.Name;
             existing.Email = instructor.Email;
             await _instructorRepository.UpdateAsync(existing);
